@@ -7,11 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<<<<<<< HEAD
-llllllllll
-=======
-哈哈哈哈哈
->>>>>>> branch 'master' of https://github.com/Z595959/mybatis.git
+lllllllll+哈哈哈哈哈
 	<h1>我喜欢你</h1>
 	<h2>wfewfw</h2>
 </body>
